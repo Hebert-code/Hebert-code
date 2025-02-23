@@ -9,13 +9,13 @@ I'm a fullstack developer passionate about technology and innovation, focused on
 </p>&nbsp;  
 
 ---
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=hebert-code&show_icons=true&theme=dark)](https://github.com/hebert-code)
+[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=hebert-code&show_icons=true&theme=dark)](https://github.com/hebert-code)
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=hebert-code&layout=compact&theme=dark)](https://github.com/hebert-code)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hebert-code&layout=compact&theme=dark)](https://github.com/hebert-code)
 
 </div>
 
