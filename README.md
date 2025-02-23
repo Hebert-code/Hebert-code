@@ -46,5 +46,5 @@ I'm a fullstack developer passionate about technology and innovation, focused on
 ---
 
 <div align="center">
-    ✨ **"Technology only makes sense when it creates a positive impact!"**  
+    <h3>✨ <em>"Technology only makes sense when it creates a positive impact!"</em> ✨</h3>
 </div>
